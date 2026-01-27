@@ -1,1 +1,2 @@
-first assignment here
+Assignment Title: Visual Prompt Studio Phase 1.1
+Prompt: Create a graffiti wall artwork using acrylic paint, representing a social protest against deforestation. This artwork should be found in an urban city, able to reach more people's eyes. It should raise awareness for the results of deforestation and what it is doing to our environment. The subject matter should include humans building houses on animals' environments, endangered animals, and soil erosion. This artwork should be abstract, using big graffiti letters to get people's attention to the matter.
