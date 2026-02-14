@@ -1,0 +1,2 @@
+Assignment Title:  Visual Prompt Studio Phase 1.2
+Prompt: Create an artwork drawing using orange/brownish ink of the side profile ofc a head. The head should take up most of the room and the background should be an off-white color. I want it to be done using cross-hatching, there should be darker values by the jaw line, ears, cheekbone, and nose with highlightsat the top of the nose and forehead.The beard should have directional lines to give it a sense of movement. The lines and shading should make it seem 3D though it is on paper. 
