@@ -1,0 +1,2 @@
+Prompt A - create a drawing that uses graphite of a palm tree by the water on a beach. Use the graphite to emphasize a texture and values in the water and in the trunk of the tree. I want the graphite to create a sense of movement joy by using shading and vertical lines.
+Prompt B - create a drawing that uses linocut print of a palm tree by the water on the beach. Use the print to emphasize the shapes and boldness in the water and in the tree. I want the print to use bold, dark lines to give the drawing texture.
